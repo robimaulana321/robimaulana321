@@ -64,8 +64,8 @@ Developed and maintained backend modules for CRM and inventory management in a r
 Feel free to reach out or connect with me:
 
 - 📧 Email: robimaulana321@gmail.com
-- 🌐 LinkedIn: [Your LinkedIn Profile](#)
-- 🧑‍💻 GitHub: [Your GitHub Profile](#)
+- 🌐 LinkedIn: [(https://www.linkedin.com/in/robi-maulana-al-hamid-667386112/)]
+- 🧑‍💻 GitHub: https://github.com/robimaulana321/
 
 ---
 
