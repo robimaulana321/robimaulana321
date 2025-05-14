@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👨‍💻 Robi Maulana - Software Engineer Portfolio
 
-<!--
-**robimaulana321/robimaulana321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm Robi Maulana, a Software Engineer with 7+ years of experience building scalable backend systems, REST APIs, and AI-powered applications — especially in the **healthcare** and **enterprise** sectors.
 
-Here are some ideas to get you started:
+## 🧠 Focus Areas
+- 🔬 **AI in Healthcare** — Predictive analytics, real-time monitoring, and medical decision support
+- 🧰 **Backend Development** — RESTful APIs, system architecture, and microservices
+- 📊 **Data Engineering** — ETL pipelines and data visualization with Grafana/Plotly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Featured Projects
+
+### 🧠 Stroke Risk Prediction AI
+> **Tech Stack**: Python, scikit-learn, Streamlit, Pandas, Matplotlib  
+An AI-powered web app that predicts the risk of stroke based on patient data using a trained classification model.  
+**Features**:
+- Data preprocessing pipeline
+- Model training and evaluation (accuracy, precision, recall)
+- Streamlit dashboard for real-time predictions
+
+🔗 [View Repository](#)  
+📄 [Try Demo](#)
+
+---
+
+### 🏥 Healthcare Analytics Dashboard (SaaS)
+> **Tech Stack**: FastAPI, PostgreSQL, Redis, WebSocket, Grafana  
+A real-time dashboard for hospitals with:
+- Patient event tracking
+- Appointment scheduling API
+- Redis-based notification system via WebSocket
+- Integration with Grafana for historical data visualization
+
+🔗 [View Repository](#)
+
+---
+
+### 🔐 API Gateway for Hospital Microservices
+> **Tech Stack**: FastAPI, JWT, Redis, Load Balancer (Round Robin & Least Connections)  
+Built a secure API Gateway to manage microservices used by a hospital system:
+- JWT Authentication Middleware
+- Load balancing logic
+- Redis caching for performance boost
+- Role-based access control
+
+🔗 [View Repository](#)
+
+---
+
+### 📦 Retail CRM Backend (TrendRetail)
+> **Tech Stack**: PHP, CodeIgniter, MySQL, Docker  
+Developed and maintained backend modules for CRM and inventory management in a retail environment:
+- Cost of Goods Sold (COGS)
+- Profit Analysis
+- Sales Reporting
+
+🔗 [View Repository](#)
+
+---
+
+## 📫 Contact
+
+Feel free to reach out or connect with me:
+
+- 📧 Email: robimaulana321@gmail.com
+- 🌐 LinkedIn: [Your LinkedIn Profile](#)
+- 🧑‍💻 GitHub: [Your GitHub Profile](#)
+
+---
+
+Thank you for visiting my portfolio! 🚀
